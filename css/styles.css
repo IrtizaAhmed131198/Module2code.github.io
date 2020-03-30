@@ -1,0 +1,47 @@
+a.navbar-brand, li >a {
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+button.navbar-toggle.collapsed {
+  background-color: black;
+}
+button>span {
+  background-color: white;
+}
+
+li.active {
+  background-color: gold;
+}
+
+.navbar{
+  border: 2px solid black;
+}
+
+.navbar, .menu-block, div.navbar-header, li, .navbar-collapse {
+  background-color: #B0E0E6;
+}
+
+.col-xs-12 {
+  height: 10000px;
+}
+
+.our-block {
+  background-color: #B0E0E6;
+  border: 2px solid black;
+  margin: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+.top-menu {
+  padding-top: 15px;
+  padding-bottom: 20px;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.menu{
+  font-weight: bold;
+}
